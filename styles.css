@@ -3,7 +3,7 @@
 .cabecalho-imagem{width: 20%}
 .cabecalho-lista-item{display: inline-block;margin:0% 16px}
 .imagem-escola {width: 25%;}
-.escola{background-image: linear-gradient(black, white(216, 13, 13);}
+.escola{background-image: linear-gradient(rgb(0, 0, 0), white(216, 13, 13);}
 .escola-conteudo{width:35%;}
 .escola{display: flex;justify-content: center;align-items: center;padding: 24px 0;}
 .escola-titulo{padding: 24px 0;}
